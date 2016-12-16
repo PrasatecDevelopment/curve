@@ -1,0 +1,8 @@
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Raden\bin\Debug\raden.dll
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Raden\bin\Debug\raden.pdb
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Raden\obj\Debug\Prasatec.Raden.csprojResolveAssemblyReference.cache
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Raden\obj\Debug\raden.dll
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Raden\obj\Debug\raden.pdb
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Raden\bin\Debug\curve.dll
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Raden\bin\Debug\curve.pdb
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Raden\bin\Debug\MySql.Data.dll
