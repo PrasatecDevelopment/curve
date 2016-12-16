@@ -1,0 +1,5 @@
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec\bin\Debug\curve.dll
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec\bin\Debug\curve.pdb
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec\obj\Debug\Prasatec.csprojResolveAssemblyReference.cache
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec\obj\Debug\curve.dll
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec\obj\Debug\curve.pdb
