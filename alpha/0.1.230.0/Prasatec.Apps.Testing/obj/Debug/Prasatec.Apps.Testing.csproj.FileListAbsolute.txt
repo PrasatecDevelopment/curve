@@ -1,0 +1,11 @@
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Apps.Testing\bin\Debug\Prasatec.Apps.Testing.exe.config
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Apps.Testing\bin\Debug\test.exe.config
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Bin (Debug)\test.exe.config
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Bin (Debug)\test.exe
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Bin (Debug)\test.pdb
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Apps.Testing\obj\Debug\Prasatec.Apps.Testing.csprojResolveAssemblyReference.cache
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Apps.Testing\obj\Debug\test.exe
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Apps.Testing\obj\Debug\test.pdb
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Apps.Testing\obj\Debug\Prasatec.Apps.Testing.WindowTest.resources
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Apps.Testing\obj\Debug\Prasatec.Apps.Testing.csproj.GenerateResource.Cache
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Apps.Testing\obj\Debug\Prasatec.Apps.Testing.CollectionWindowTest.resources

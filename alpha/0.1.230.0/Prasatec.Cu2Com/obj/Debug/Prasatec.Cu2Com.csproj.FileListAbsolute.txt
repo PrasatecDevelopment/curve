@@ -1,0 +1,12 @@
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Cu2Com\bin\Debug\curve.dll
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Cu2Com\bin\Debug\raden.dll
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Cu2Com\bin\Debug\raden.pdb
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Cu2Com\bin\Debug\curve.pdb
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Cu2Com\obj\Debug\Prasatec.Cu2Com.csprojResolveAssemblyReference.cache
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Cu2Com\bin\Debug\cu2com.dll
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Cu2Com\bin\Debug\cu2com.pdb
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Cu2Com\obj\Debug\cu2com.dll
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Cu2Com\obj\Debug\cu2com.pdb
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Cu2Com\bin\Debug\experience.dll
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Cu2Com\bin\Debug\experience.pdb
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Cu2Com\bin\Debug\MySql.Data.dll
