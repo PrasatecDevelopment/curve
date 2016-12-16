@@ -1,0 +1,12 @@
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Experience\bin\Debug\experience.dll
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Experience\bin\Debug\experience.pdb
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Experience\obj\Debug\Prasatec.Experience.csprojResolveAssemblyReference.cache
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Experience\obj\Debug\experience.dll
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Experience\obj\Debug\experience.pdb
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Experience\bin\Debug\curve.dll
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Experience\bin\Debug\curve.pdb
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Experience\obj\Debug\Prasatec.Experience.DynamicWindows.InteractionWindow.resources
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Experience\obj\Debug\Prasatec.Experience.csproj.GenerateResource.Cache
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Experience\obj\Debug\Prasatec.Experience.DynamicWindows.CollectionWindow.resources
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Experience\obj\Debug\Prasatec.Experience.Properties.Resources.resources
+E:\Projects\Windows Apps\Curve\V1-Blackstone\Source Files\Prasatec.Experience\obj\Debug\Prasatec.Experience.DynamicWindows.EditorWindow.resources
